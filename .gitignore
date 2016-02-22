@@ -4,3 +4,6 @@ typings/*.js
 typings/*.js.map
 node_modules
 typings
+.DS_Store
+*.js
+*.js.map
