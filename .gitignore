@@ -1,0 +1,4 @@
+app/*.js
+app/*.js.map
+typings/*.js
+typings/*.js.map
